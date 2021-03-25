@@ -1,5 +1,5 @@
 import React from 'react';
-import Setup from './tutorial/9-custom-hooks/setup/1-fetch-example';
+import Setup from './tutorial/10-prop-types/setup';
 
 function App() {
   return (
@@ -9,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
